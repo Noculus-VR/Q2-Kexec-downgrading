@@ -11,8 +11,8 @@ Use Kexec to temporarily "downgrade" a rooted but locked Oculus Quest 2
 
 # Meta please dont hurt my family 
 
-##  Legal stuff:
-**Noculus is a zero profit organization and we are using publicly available resources, we seek no quarrel Meta**
+##  AI discalimer:
+This project uses human reviewed AI assisted code
 
 
 
